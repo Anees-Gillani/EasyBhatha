@@ -18,4 +18,4 @@ jobs:
         server: ftp.easybhatha.com
         username: asad@easybhatha.com
         password: Asad03@!@!
-        server-dir: /home/easybebk/
+        server-dir: /home/easybebk/dev.easybhatha.com
