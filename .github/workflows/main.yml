@@ -18,4 +18,5 @@ jobs:
         server: ftp.easybhatha.com
         username: asad@dev.easybhatha.com
         password: Asad03@!@!
-        server-dir: /home/easybebk/public_html/easybhatha.com/dev/
+        server-dir: /home/easybebk/dev.easybhatha.com/
+
