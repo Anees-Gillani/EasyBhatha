@@ -18,5 +18,5 @@ jobs:
         server: ftp.easybhatha.com
         username: asad@dev.easybhatha.com
         password: Asad03@!@!
-        server-dir: /dev.easybhatha.com/
+        server-dir: /dev.easybhatha.com/dev
 
